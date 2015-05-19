@@ -9,3 +9,7 @@ Second attempt for a pull.
 change 2
 change 3
 change 4
+
+Second attempt failed.
+
+Trying different selection under commits, (not "Commit directly")
